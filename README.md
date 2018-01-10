@@ -1,6 +1,10 @@
 # 01-Hello-Class
 
-Hello, class! This is the first assignment for ILS-Z399. The requirements for this assignment are as follows:
+This project fulfills the requirements for assignment 01, "Hello Class."
+
+My project provides information for my [StackOverflow Account](https://stackoverflow.com/users/9198835/) and my [GitHub Account](https://github.com/blcmill).
+
+The following are the requirements for the assignment, all of which have been fulfilled:
 
 Write a Python program that displays answers to the following questions:
 
